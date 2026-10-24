@@ -1,0 +1,6 @@
+{
+  "name": "Relove",
+  "description": "Secondhand and vintage marketplace to discover, buy, and sell pre-loved goods.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
